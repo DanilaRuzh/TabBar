@@ -42,26 +42,3 @@ git clone https://github.com/DanilaRuzh/TabBarNavigation.git
 
 Автор: DanilaRuzh
 GitHub: https://github.com/DanilaRuzh
-
-Добавление скриншотов и файлов в репозиторий Git:
-
-	1.	Переместите скриншоты в папку Screenshots или создайте её, если её нет.
-	2.	Добавьте скриншоты в Git:
-
-git add Screenshots/Screen_1.png Screenshots/Screen_2.png
-
-
-	3.	Сделайте коммит:
-
-git commit -m "Добавлены скриншоты"
-
-
-	4.	Отправьте изменения на GitHub:
-
-git push origin master
-
-
-
-Если в проекте используются другие изображения или элементы, не забудьте добавить их в Git и обновить README с их отображением.
-
-Теперь ваш проект готов для публикации на GitHub с подробным описанием.
